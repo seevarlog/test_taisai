@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SocketMultiEchoClient", "SocketMultiEcho\SocketMultiEcho.vcxproj", "{E12FB684-13FA-4E3E-8D2F-E1B09F41EB77}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SocketMultiEchoServer", "SocketMultiEchoServer\SocketMultiEchoServer.vcxproj", "{ADB5ABC3-4E5F-467A-8EA5-AED95BC9F2D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E12FB684-13FA-4E3E-8D2F-E1B09F41EB77}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E12FB684-13FA-4E3E-8D2F-E1B09F41EB77}.Debug|Win32.Build.0 = Debug|Win32
+		{E12FB684-13FA-4E3E-8D2F-E1B09F41EB77}.Release|Win32.ActiveCfg = Release|Win32
+		{E12FB684-13FA-4E3E-8D2F-E1B09F41EB77}.Release|Win32.Build.0 = Release|Win32
+		{ADB5ABC3-4E5F-467A-8EA5-AED95BC9F2D6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ADB5ABC3-4E5F-467A-8EA5-AED95BC9F2D6}.Debug|Win32.Build.0 = Debug|Win32
+		{ADB5ABC3-4E5F-467A-8EA5-AED95BC9F2D6}.Release|Win32.ActiveCfg = Release|Win32
+		{ADB5ABC3-4E5F-467A-8EA5-AED95BC9F2D6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
